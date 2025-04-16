@@ -416,4 +416,20 @@
   #form-contato button:hover {
     background-color: #e5c100;
   }
+
+  .social-icons {
+    margin: 10px 0;
+  }
+  
+  .social-icons a {
+    color: #ffffff;
+    font-size: 1.5rem;
+    margin-right: 15px;
+    transition: color 0.3s ease;
+  }
+  
+  .social-icons a:hover {
+    color: #e5c100;
+  }
+  
   
